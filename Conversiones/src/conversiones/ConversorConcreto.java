@@ -12,7 +12,7 @@ public class ConversorConcreto extends Aconversor {
 
     @Override
     double farenheit2kelvin() {
-        
+        return (dato+459.67)*5/9;
     }
     
 }
